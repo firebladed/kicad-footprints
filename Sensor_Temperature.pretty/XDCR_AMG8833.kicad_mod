@@ -1,4 +1,4 @@
-(module XDCR_AMG8833 (layer F.Cu) (tedit 5E0E6EA8)
+(module XDCR_AMG8833 (layer F.Cu) (tedit 5E0E73A9)
   (descr http://industrial.panasonic.com/cdbs/www-data/pdf/ADI8000/ADI8000C66.pdf)
   (fp_text reference REF** (at -3.330345 -5.393685) (layer F.SilkS)
     (effects (font (size 1.001614 1.001614) (thickness 0.015)))
